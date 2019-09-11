@@ -1,4 +1,4 @@
-# Semantic-ui RTL version 2.4.0
+# Semantic-ui RTL version 2.4.2
 
 
 ## how use:
